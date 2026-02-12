@@ -1,6 +1,6 @@
 # Recommendation-System-CODTECH
 # Recommendation System with Collaborative Filtering
-## CODTECH IT Solutions - Internship Task 4
+
 
 
 ## 📋 Project Overview
